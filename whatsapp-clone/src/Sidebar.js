@@ -10,6 +10,11 @@ import SidebarChat from './SidebarChat';
 import './Sidebar.css';
 
 function Sidebar() {
+
+    
+
+
+
     return (
         <div className="sidebar">
             <div className="sidebar__header">
@@ -41,56 +46,7 @@ function Sidebar() {
 
             <div className="sidebar__chats">
                 <SidebarChat addNewChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-                <SidebarChat />
-
-                
-        
+            
             </div>
 
         </div>
